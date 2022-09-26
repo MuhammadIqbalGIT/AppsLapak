@@ -19,6 +19,7 @@ class ViewPagerActivity : AppCompatActivity() {
             PagetThreeOnBoardingFragment()
         )
 
-        val adapterViewPager : ViewPagerAdapter (fr)
+        val adapterViewPager = ViewPagerAdapter (fragmentViewPager,this)
+        viewPager.adapter = adapterViewPager
     }
 }
