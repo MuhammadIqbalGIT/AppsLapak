@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AppsLapak/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/AppsLapak/app/src/main/res/layout/activity_view_pager.xml" value="0.2" />
+        <entry key="..\:/AppsLapak/app/src/main/res/layout/fragment_page_one_on_boarding.xml" value="0.2" />
+        <entry key="..\:/AppsLapak/app/src/main/res/layout/fragment_page_two_on_boarding.xml" value="0.2" />
+        <entry key="..\:/AppsLapak/app/src/main/res/layout/fragment_paget_three_on_boarding.xml" value="0.2" />
         <entry key="..\:/Users/iqbal/AndroidStudioProjects/GRCBoardLapak/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
       </map>
     </option>

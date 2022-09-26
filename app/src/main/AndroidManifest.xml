@@ -14,6 +14,9 @@
         android:theme="@style/Theme.GRCBoardLapak"
         tools:targetApi="31">
         <activity
+            android:name=".ViewPagerActivity"
+            android:exported="false" />
+        <activity
             android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
@@ -21,18 +24,10 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-
         </activity>
-
-
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-
-        </activity>
-
-
+            android:exported="true"></activity>
     </application>
 
 </manifest>
