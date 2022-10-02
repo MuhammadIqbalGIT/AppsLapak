@@ -17,7 +17,13 @@ class ViewPagerActivity : AppCompatActivity() {
             PageOneOnBoardingFragment(),
             PageTwoOnBoardingFragment(),
             PagetThreeOnBoardingFragment()
+
+
         )
+
+        setFullScreen(window)
+        lightStatusBar(window)
+
 
         val adapterViewPager = ViewPagerAdapter (fragmentViewPager,this)
         viewPager.adapter = adapterViewPager

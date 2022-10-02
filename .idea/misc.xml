@@ -9,10 +9,20 @@
         <entry key="..\:/AppsLapak/app/src/main/res/layout/fragment_page_two_on_boarding.xml" value="0.2" />
         <entry key="..\:/AppsLapak/app/src/main/res/layout/fragment_paget_three_on_boarding.xml" value="0.2" />
         <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/drawable/custom_button_blue.xml" value="0.1015" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/drawable/custom_button_white.xml" value="0.1015" />
         <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/drawable/ic_onb_illustration_1.xml" value="0.195" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/drawable/ic_onb_illustration_3.xml" value="0.195" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/drawable/ic_selector_indicator.xml" value="0.195" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/font/font.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/layout/activity_splash_screen.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/layout/activity_view_pager.xml" value="0.18697916666666667" />
         <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/layout/fragment_page_one_on_boarding.xml" value="0.33" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/layout/fragment_page_two_on_boarding.xml" value="0.33" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/layout/fragment_paget_three_on_boarding.xml" value="0.25" />
+        <entry key="..\:/Users/iqbal/AndroidStudioProjects/AppsLapak/app/src/main/res/layout/fragment_stepper.xml" value="0.14537037037037037" />
         <entry key="..\:/Users/iqbal/AndroidStudioProjects/GRCBoardLapak/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
       </map>
     </option>

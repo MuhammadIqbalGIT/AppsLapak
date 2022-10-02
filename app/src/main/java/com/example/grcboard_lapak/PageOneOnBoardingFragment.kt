@@ -35,6 +35,8 @@ class PageOneOnBoardingFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_page_one_on_boarding, container, false)
+        //v = View.inflate(getContext(), R.layout.event_show_row_layout, null);
+
     }
 
     companion object {
